@@ -15,3 +15,6 @@ uploading a new challenge or new practice problem everyday for git practice and 
 
 ### lucky_sevens
 * method adds three sequential elements in any sized array and returns true if any three add up to 7
+
+### format.rb
+* experimenting with format options in ruby
