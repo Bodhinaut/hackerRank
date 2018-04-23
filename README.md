@@ -4,7 +4,7 @@ different challenges completed from HackerRank
 uploading a new challenge or new practice problem everyday for git practice and ruby problem solving training
 
 ### oddball_sum
-..* method takes in an array of numbers and returns the sum of only the odd numbers
+* method takes in an array of numbers and returns the sum of only the odd numbers
 
 
 ### vowel_remove
