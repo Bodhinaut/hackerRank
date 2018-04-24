@@ -18,3 +18,8 @@ uploading a new challenge or new practice problem everyday for git practice and 
 
 ### format.rb
 * experimenting with format options in ruby
+
+### hash_word_count
+* short program that accepts user input of a sentence and creates key/value pair, returns words and count of the words
+* the key is stored as the words which have been split from the user input
+* the value is an increment that counts the occurence of each word in the sentence
