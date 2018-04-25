@@ -26,3 +26,6 @@ uploading a new challenge or new practice problem everyday for git practice and 
 
 ### very_big_sum
 * simple add sum of array and extra int with constraints, hackerrank challenge
+
+### sort_sortReverse
+* simple method for sorting in ascending or descending order different data types
