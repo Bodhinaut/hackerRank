@@ -29,3 +29,7 @@ uploading a new challenge or new practice problem everyday for git practice and 
 
 ### sort_sortReverse
 * simple method for sorting in ascending or descending order different data types
+
+### diagonal_sum
+* method that takes in matrix, and finds the absolute difference in the 
+diagonals of the matrix
