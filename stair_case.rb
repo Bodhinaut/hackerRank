@@ -1,16 +1,14 @@
 def staircase(n)
-  num = n
-  str = ""
-  num = ( (num - num) + 1)
-  n.times do
-    str += "%10s" % "#" * (num) 
-    str += " " * (num)
-    str += "\n"
-    num += 1
+  for i in 1..n
+      for j in 1..n - i
+          print " "
+      end
+      for k in n.downto(n - i + 1)
+        print "#"
+      end
+    puts "\n"
   end
-print str
 end
 
 staircase(6)
-
-# still need to right align the staircase above 
+# now the staircase is right-aligned
