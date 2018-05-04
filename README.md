@@ -33,3 +33,7 @@ uploading a new challenge or new practice problem everyday for git practice and 
 ### diagonal_sum
 * method that takes in matrix, and finds the absolute difference in the 
 diagonals of the matrix
+
+### stair_case
+* takes in an integer n, and prints a staircase with leading whitespace, 
+right-aligned
