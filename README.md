@@ -46,11 +46,11 @@ right-aligned
 
 *Input Format
 
-*A single line of five space-separated integers.
+* A single line of five space-separated integers.
 
-*Constraints
+* Constraints
 
-*Each integer is in the inclusive range .
-*Output Format
+* Each integer is in the inclusive range .
+* Output Format
 
-*Print two space-separated long integers denoting the respective minimum and maximum values that can be calculated by summing exactly *four of the five integers. (The output can be greater than a 32 bit integer.)
+* Print two space-separated long integers denoting the respective minimum and maximum values that can be calculated by summing exactly * four of the five integers. (The output can be greater than a 32 bit integer.)
