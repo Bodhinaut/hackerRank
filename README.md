@@ -37,3 +37,20 @@ diagonals of the matrix
 ### stair_case
 * takes in an integer n, and prints a staircase with leading whitespace, 
 right-aligned
+
+
+
+
+### miniMaxSum
+* Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then print the respective minimum and maximum values as a single line of two space-separated long integers.
+
+Input Format
+
+A single line of five space-separated integers.
+
+Constraints
+
+Each integer is in the inclusive range .
+Output Format
+
+Print two space-separated long integers denoting the respective minimum and maximum values that can be calculated by summing exactly four of the five integers. (The output can be greater than a 32 bit integer.)
