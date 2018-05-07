@@ -67,3 +67,8 @@ right-aligned
 * method must take in niece's age, and an int array containing candle height
 
 * return the number of candles she can successfully blow out
+
+### time_conversion
+* convert  12 hour format to military time
+* midnight 12:00:00AM is 00:00:00
+* noon is 12:00:00 PM on a 12 hour clock, and 12:00:00 on a 24 hour clock
